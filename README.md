@@ -11,11 +11,15 @@ Launch the game and enjoy!
 
 # Features
 Increased difficulty
+
 Random moon events
+
 Syncing to clients who dont have the mod
+
 
 # Notes
 ONLY THE HOST SHOULD HAVE THE MOD RUNNING!
+
 I intended for only the host to run the mod, so if you are going to be joining a friend, dont install the mod! have the host install it instead!
 
 
