@@ -14,6 +14,8 @@ Increased difficulty
 
 Random moon events
 
+More game mechanics (only one so far lol)
+
 Syncing to clients who dont have the mod
 
 
