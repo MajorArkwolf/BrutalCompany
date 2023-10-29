@@ -1,2 +1,2 @@
 # BrutalCompany
-Hardcore mod for lethal company
+A hardcore mod for lethal company
